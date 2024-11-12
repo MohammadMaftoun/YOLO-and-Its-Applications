@@ -1,4 +1,5 @@
 # YOLO-and-Its-Applications
+![YOLO](https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/blogs/22606/images/8470603-c8ef-5e1-bea7-e8ba8c5d5a8_yolo-feature-img.png)
 
 # 1. Overview of YOLO (You Only Look Once):
 
