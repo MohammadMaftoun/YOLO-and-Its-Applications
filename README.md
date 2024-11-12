@@ -12,9 +12,9 @@ The description highlights the main components and functionalities that the repo
     YOLOv5 Implementation:
         This refers to a specific, highly optimized version of YOLO (v5), known for its balance of speed and accuracy. Due to its effectiveness in various tasks, YOLOv5 is often used in production systems.
     Pretrained Models:
-        The repository provides access to pretrained YOLO models that have been trained on large, publicly available datasets like COCO or Pascal VOC. These pretrained models can detect a wide range of object classes out-of-the-box and are useful for immediate use or transfer learning.
+        The repository provides access to pre-trained YOLO models trained on large, publicly available datasets like COCO or Pascal VOC. These pre-trained models can detect a wide range of object classes out of the box and are useful for immediate use or transfer learning.
     Custom Dataset Training:
-        YOLO can be fine-tuned on a custom dataset to recognize specific objects that the pre-trained models do not cover. The repository provides scripts and instructions to help users adapt YOLO to their own data.
+        YOLO can be fine-tuned on a custom dataset to recognize specific objects that the pre-trained models do not cover. The repository provides scripts and instructions to help users adapt YOLO to their data.
     Real-time Detection:
         One of YOLO's key strengths is its ability to perform object detection in real-time. The repository might include examples that show how YOLO detects objects in live video feeds, such as camera streams or pre-recorded video files.
     Applications:
