@@ -16,7 +16,7 @@ The description highlights the main components and functionalities that the repo
     Custom Dataset Training:
         YOLO can be fine-tuned on a custom dataset to recognize specific objects the pre-trained models do not cover. The repository provides scripts and instructions to help users adapt YOLO to their data.
     Real-time Detection:
-        One of YOLO's key strengths is its ability to detect objects in real-time. The repository might include examples that show how YOLO detects objects in live video feeds, such as camera streams or pre-recorded video files.
+        One of YOLO's key strengths is its real-time detection of objects. The repository might include examples that show how YOLO detects objects in live video feeds, such as camera streams or pre-recorded video files.
     Applications:
         YOLO can be applied to various domains:
             Autonomous Driving: Detecting pedestrians, other vehicles, traffic signs, etc.
@@ -26,14 +26,14 @@ The description highlights the main components and functionalities that the repo
 
 # 3. Installation Instructions:
 
-To use the repository, users need to clone it to their local machine and install any required dependencies. A typical approach would be to create a requirements.txt file with all necessary Python packages (like torch, OpenCV, NumPy, etc.) that users can install with a simple pip install—r requirements.txt.
+Users need to clone the repository to their local machine and install any required dependencies to use it. A typical approach would be to create a requirements.txt file with all necessary Python packages (like torch, OpenCV, NumPy, etc.) that users can install with a simple pip install—r requirements.txt.
 
 # 4. Usage:
 
 The repository provides functionalities that users can take advantage of:
 
     Run YOLO Detection on Images:
-        This means users can input an image (or a set of images), and the system will return bounding boxes around detected objects, along with class labels and confidence scores.
+        This means users can input an image (or a set of photos), and the system will return bounding boxes around detected objects, along with class labels and confidence scores.
     Train YOLO on Custom Dataset:
         Users can take their datasets (e.g., images of specific products, animals, etc.) and retrain the YOLO model to recognize those objects. This is often done using the transfer learning technique, where the pre-trained YOLO model is further trained on the new dataset.
     Deploy for Real-Time Applications:
