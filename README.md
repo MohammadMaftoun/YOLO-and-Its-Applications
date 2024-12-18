@@ -47,4 +47,4 @@ The repository is open-source, meaning others can contribute to its improvement.
     Submit issues: If they find bugs or have feature requests, they can report them via the GitHub issues section.
     Create pull requests: If they develop improvements or fixes, they can submit a pull request to merge their code into the main repository.
 
-This description is designed to make the repository accessible to a wide audience, from beginners to experienced developers, by providing clear usage instructions and examples. It also highlights the key strengths of YOLO in real-time applications, making it suitable for a variety of industries.
+This description is designed to make the repository accessible to a wide audience, from beginners to experienced developers, by providing clear usage instructions and examples. It also highlights the key strengths of YOLO in real-time applications, making it suitable for various industries.
