@@ -26,14 +26,14 @@ The description highlights the main components and functionalities that the repo
 
 # 3. Installation Instructions:
 
-Users need to clone the repository to their local machine and install any required dependencies to use it. A typical approach would be to create a requirements.txt file with all necessary Python packages (like torch, OpenCV, NumPy, etc.) that users can install with a simple pip install—r requirements.txt.
+Users need to clone the repository to their local machine and install any required dependencies. A typical approach would be to create a requirements.txt file with all necessary Python packages (like torch, OpenCV, NumPy, etc.) that users can install with a simple pip install—r requirements.txt.
 
 # 4. Usage:
 
 The repository provides functionalities that users can take advantage of:
 
     Run YOLO Detection on Images:
-        This means users can input an image (or a set of photos), and the system will return bounding boxes around detected objects, along with class labels and confidence scores.
+        This means users can input an image (or a set of photos), and the system will return bounding boxes around detected objects, class labels, and confidence scores.
     Train YOLO on Custom Dataset:
         Users can take their datasets (e.g., images of specific products, animals, etc.) and retrain the YOLO model to recognize those objects. This is often done using the transfer learning technique, where the pre-trained YOLO model is further trained on the new dataset.
     Deploy for Real-Time Applications:
