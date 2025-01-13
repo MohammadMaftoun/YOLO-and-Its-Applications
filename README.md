@@ -3,7 +3,7 @@
 
 # 1. Overview of YOLO (You Only Look Once):
 
-YOLO is a popular real-time object detection algorithm that identifies and locates objects within images or video streams. Unlike other traditional methods involving multiple stages (e.g., region proposals followed by classification), YOLO is a unified model that performs both tasks in a single pass. This makes it incredibly fast efficient and suitable for real-time applications.
+YOLO is a popular real-time object detection algorithm that identifies and locates objects within images or video streams. Unlike conventional methods involving multiple stages (e.g., region proposals followed by classification), YOLO is a unified model that performs both tasks in a single pass. This makes it incredibly fast efficient and suitable for real-time applications.
 
 # 2. Features in the Repository:
 
@@ -26,7 +26,7 @@ The description highlights the main components and functionalities that the repo
 
 # 3. Installation Instructions:
 
-Users need to clone the repository to their local machine and install any required dependencies. A typical approach would be to create a requirements.txt file with all necessary Python packages (like torch, OpenCV, NumPy, etc.) that users can install with a simple pip install—r requirements.txt.
+Users must clone the repository to their local machine and install any required dependencies. A typical approach would be to create a requirements.txt file with all necessary Python packages (like torch, OpenCV, NumPy, etc.) that users can install with a simple pip install—r requirements.txt.
 
 # 4. Usage:
 
@@ -47,4 +47,4 @@ The repository is open-source, meaning others can contribute to its improvement.
     Submit issues: If they find bugs or have feature requests, they can report them via the GitHub issues section.
     Create pull requests: If they develop improvements or fixes, they can submit a pull request to merge their code into the main repository.
 
-This description is designed to make the repository accessible to a wide audience, from beginners to experienced developers, by providing clear usage instructions and examples. It also highlights the key strengths of YOLO in real-time applications, making it suitable for various industries.
+This description is designed to make the repository accessible to a wide audience, from beginners to experienced developers, by providing clear usage instructions and examples. It also highlights YOLO's key strengths in real-time applications, making it suitable for various industries.
