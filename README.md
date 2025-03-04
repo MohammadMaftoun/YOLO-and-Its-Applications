@@ -14,7 +14,7 @@ The description highlights the main components and functionalities that the repo
     Pretrained Models:
         The repository provides access to pre-trained YOLO models trained on large, publicly available datasets like COCO or Pascal VOC. These pre-trained models can detect a wide range of object classes out of the box and are useful for immediate use or transfer learning.
     Custom Dataset Training:
-        YOLO can be fine-tuned on a custom dataset to recognize specific objects the pre-trained models do not cover. The repository provides scripts and instructions to help users adapt YOLO to their data.
+        YOLO can be fine-tuned on a custom dataset to detect specific objects the pre-trained models do not cover. The repository provides scripts and instructions to help users adapt YOLO to their data.
     Real-time Detection:
         One of YOLO's key strengths is its real-time detection of objects. The repository could include examples that show how YOLO detects objects in live video feeds, such as camera streams or pre-recorded video files.
     Applications:
