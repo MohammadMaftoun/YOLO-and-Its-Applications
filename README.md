@@ -10,7 +10,7 @@ YOLO is a popular real-time object detection algorithm that identifies and locat
 The description highlights the main components and functionalities that the repository will offer:
 
     YOLOv5 Implementation:
-        This guides to a specific, highly optimized version of YOLO (v5), known for its balance of speed and accuracy. Due to its effectiveness in various tasks, YOLOv5 is often used in production systems.
+        This guides to a specific, highly optimized version of YOLO (v5), known for its balance of speed and accuracy. Due to its effectiveness in various tasks, YOLOv5 is often employed in production systems.
     Pretrained Models:
         The repository provides access to pre-trained YOLO models trained on large, publicly available datasets like COCO or Pascal VOC. These pre-trained models can detect a wide range of object classes out of the box and are useful for immediate use or transfer learning.
     Custom Dataset Training:
