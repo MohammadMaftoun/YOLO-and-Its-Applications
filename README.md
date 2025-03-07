@@ -16,7 +16,7 @@ The description highlights the main components and functionalities that the repo
     Custom Dataset Training:
         YOLO can be fine-tuned on a custom dataset to detect specific objects the pre-trained models do not cover. The repository provides scripts and instructions to help users adapt YOLO to their data.
     Real-time Detection:
-        One of YOLO's key strengths is its real-time detection of objects. The repository could include examples that show how YOLO detects objects in live video feeds, such as camera streams or pre-recorded video files.
+        One of YOLO's key strengths is its real-time detection of objects. The repository could contain examples that show how YOLO detects objects in live video feeds, such as camera streams or pre-recorded video files.
     Applications:
         YOLO can be applied to various domains:
             Autonomous Driving: Detecting pedestrians, other vehicles, traffic signs, etc.
