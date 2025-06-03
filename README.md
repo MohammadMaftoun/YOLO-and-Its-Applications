@@ -3,7 +3,7 @@
 
 # 1. Overview of YOLO (You Only Look Once):
 
-YOLO is a popular real-time object detection algorithm that identifies and locates objects within images or video streams. Unlike traditional methods involving multiple stages (e.g., region proposals followed by classification), YOLO is a unified model that performs both tasks in a single pass. This makes it incredibly fast efficient and suitable for real-time applications.
+YOLO is a popular real-time object detection algorithm that identifies and locates objects within images or video streams. Unlike traditional methods involving multiple stages (e.g., region proposals followed by classification), YOLO is a unified model that performs both tasks in a single pass. This makes it incredibly fast, efficient, and suitable for real-time applications.
 
 # 2. Features in the Repository:
 
@@ -12,9 +12,9 @@ The description highlights the main components and functionalities that the repo
     YOLOv5 Implementation:
         This guides to a specific, highly optimized version of YOLO (v5), known for its balance of speed and accuracy. Due to its effectiveness in various tasks, YOLOv5 is often employed in production systems.
     Pretrained Models:
-        The repository provides access to pre-trained YOLO models trained on large, publicly available datasets like COCO or Pascal VOC. These pre-trained models can detect a wide range of object classes out of the box and are useful for immediate use or transfer learning.
+        The repository provides access to pre-trained YOLO models trained on large, publicly available datasets, such as COCO or Pascal VOC. These pre-trained models can detect a wide range of object classes out of the box and are useful for immediate use or transfer learning.
     Custom Dataset Training:
-        YOLO can be fine-tuned on a custom dataset to detect specific objects the pre-trained models do not cover. The repository provides scripts and instructions to help users adapt YOLO to their data.
+        YOLO can be fine-tuned on a custom dataset to detect specific objects that the pre-trained models do not cover. The repository provides scripts and instructions to help users adapt YOLO to their data.
     Real-time Detection:
         One of YOLO's key strengths is its real-time detection of objects. The repository could contain examples that show how YOLO detects objects in live video feeds, such as camera streams or pre-recorded video files.
     Applications:
