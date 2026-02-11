@@ -26,7 +26,7 @@ The description highlights the main components and functionalities that the repo
 
 # 3. Installation Instructions:
 
-Users must clone the repository to their local machine and install any required dependencies. A typical approach would be to create a requirements.txt file with all necessary Python packages (like torch, OpenCV, NumPy, etc.) that users can install with a simple pip install—r requirements.txt.
+Users must clone the repository to their local machine and install any required dependencies. A typical approach would be to generate a requirements.txt file with all necessary Python packages (like torch, OpenCV, NumPy, etc.) that users can install with a simple pip install—r requirements.txt.
 
 # 4. Usage:
 
