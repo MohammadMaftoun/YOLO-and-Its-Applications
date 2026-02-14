@@ -3,7 +3,7 @@
 
 # 1. Overview of YOLO (You Only Look Once):
 
-YOLO is a popular real-time object detection algorithm that identifies and locates objects within images or video streams. Unlike traditional methods involving multiple stages (e.g., region proposals followed by classification), YOLO is a unified model that performs both tasks in a single pass. This makes it incredibly fast, efficient, and suitable for real-time applications.
+YOLO is a popular real-time object detection algorithm that identifies and locates objects within images or video streams. Unlike conventional methods involving multiple stages (e.g., region proposals followed by classification), YOLO is a unified model that performs both tasks in a single pass. This makes it incredibly fast, efficient, and suitable for real-time applications.
 
 # 2. Features in the Repository:
 
